@@ -1,5 +1,5 @@
 # ZEHAM-CLINIC
-Ayazz, [11/13/2025 4:28 PM]
+
 # Zeham Clinic
 
 Zeham Clinic is a modern dental clinic that provides high-quality dental care using the latest technology.  
@@ -7,13 +7,13 @@ We focus on creating healthy, beautiful smiles through professional service and 
 
 ---
 
-## 💡 Project Idea
+##  Project Idea
 
 Project Title: “Smile with Confidence” – A Digital Marketing Campaign for Zeham Dental Clinic  
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 The project aims to create a strong and consistent digital presence for Zeham Clinic — a modern dental clinic committed to delivering high-quality oral care with advanced technology and a friendly environment.  
 
@@ -24,7 +24,7 @@ It will use a mix of educational content, emotional storytelling, and targeted a
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Build brand awareness and credibility online.  
 - Educate the audience about dental health in an engaging way.  
@@ -33,7 +33,7 @@ It will use a mix of educational content, emotional storytelling, and targeted a
 
 ---
 
-## 🧍 Target Audience
+##  Target Audience
 
 - Men and women aged 18–45.  
 - Residents of Alexandria and nearby areas.  
@@ -42,7 +42,7 @@ It will use a mix of educational content, emotional storytelling, and targeted a
 
 ---
 
-## 🚀 Project Phases
+##  Project Phases
 
 ### Phase 1 – Branding & Content Setup
 - Develop a unique brand identity (colors, logo, tone of voice).  
@@ -68,7 +68,7 @@ It will use a mix of educational content, emotional storytelling, and targeted a
 
 ---
 
-## 📈 Expected Outcomes
+##  Expected Outcomes
 
 - 50% increase in engagement rate within 3 months.  
 - 30% growth in online bookings.  
@@ -77,7 +77,7 @@ It will use a mix of educational content, emotional storytelling, and targeted a
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
 1. Aya Ahmed Saad *(Leader)*  
 2. Mariam Zakaria Mohamed  
@@ -88,7 +88,7 @@ It will use a mix of educational content, emotional storytelling, and targeted a
 
 ---
 
-## 🗂️ Work Plan
+##  Work Plan
 
 1. Introduction  
 2. Objectives (SMART)  
@@ -109,7 +109,7 @@ It will use a mix of educational content, emotional storytelling, and targeted a
 
 ---
 
-## 🧩 Roles and Responsibilities
+##  Roles and Responsibilities
 
 Aya Ahmed  
 - SWOT Analysis  
@@ -138,7 +138,6 @@ Sondos
 - Analysis Report  
 - Recommendations
 
-Ayazz, [11/13/2025 4:28 PM]
 Mariam Samir  
 - Segmentation  
 - Content Creation  
@@ -146,7 +145,7 @@ Mariam Samir
 
 ---
 
-## 👩‍🏫 Instructor
+##  Instructor
 
 Safy Eldin
 
